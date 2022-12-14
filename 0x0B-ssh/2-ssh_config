@@ -1,0 +1,4 @@
+Host 49156-web-01
+	User ubuntu
+	IdentityFile ~/.ssh/school
+	IdentitiesOnly yes
